@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ahmadjanuaramri2015@gmail.com**
 
-- ⚡ Fun fact **xd**
+- ⚡ Fun fact **give me support so that I am passionate about learning programming languages**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
