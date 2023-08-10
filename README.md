@@ -23,4 +23,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/ahmadjanuaM"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://bmc.link/ahmadjanuaM" /></a></p><br><br>
 
-![Snake animation](https://github.com/{{AhmadJanuar1}}/{{AhmadJanuar1}}/blob/output/github-contribution-grid-snake.svg)
+
