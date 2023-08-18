@@ -1,12 +1,14 @@
+
+[<p align="center">![MasterHead](https://media.tenor.com/rAF4R8RSPswAAAAC/the-it-crowd-dedcel.gif)</p>]
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Ahmad Januar</h1>
 <h3 align="center">junior-web-developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadjanuar1&label=Profile%20views&color=00ff7b&style=plastic" alt="ahmadjanuar1" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmadjanuar1" alt="ahmadjanuar1" /></a> </p>
-
-<img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300">
  <hr>
+<img src="https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=ecf05e47fkipy4imwscvqyf4ji2ozuzet6rffihacyr5j0pb&rid=giphy.gif&ct=g" align="right" alt="Coder GIF" width="480" height="300">
+
 
  <div>
 
