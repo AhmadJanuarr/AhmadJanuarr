@@ -1,4 +1,4 @@
-### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3czbXZqYnEwY2Ntam43NzBncHJiN2c4bGQxZzlxcDNxdG1tMnkxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D15IEIRszu2sM/giphy.gif" width="50"> A little more about me...  
+### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3czbXZqYnEwY2Ntam43NzBncHJiN2c4bGQxZzlxcDNxdG1tMnkxbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/D15IEIRszu2sM/giphy.gif" width="50"> A little more about me...  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXpnMDI5ZHkyOG44M2ttMXdrZHdhOWY1OGU0azYzbjQzeHRuM3hneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/10i7wGV8Kx3bFK/giphy.gif">
 
 ```javascript
 const me = {
