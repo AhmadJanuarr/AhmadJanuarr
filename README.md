@@ -10,7 +10,8 @@ const me = {
             css: ["CSS3", "Tailwind", "Bootstrap"]
         },
         backEnd: {
-            php :["Native","Laravel"]
+            php :["Native"],
+            js  :["NodeJs","Express"]
         },
         databases: ["MySql","phpMyAdmin"],
     },
