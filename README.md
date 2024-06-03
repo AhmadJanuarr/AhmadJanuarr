@@ -1,4 +1,4 @@
-### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdqcDZqb3RwNTV2MjEwczN0Z2xpNnFhODRtaGhkOHFjdGFyOXdxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F7m2ZIgR06LRiamtXy/giphy.gif" width="50"> A little more about me...<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW11MTE4czk1Mms5OGUxYXU3eHlseWtwMXVtZzlhcXQ5eGx2cXM4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N5OTryRsuNnV6cgDav/giphy.gif" width="50"> <img src="https://tenor.com/bE6bP.gif" width="50">
+### <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdqcDZqb3RwNTV2MjEwczN0Z2xpNnFhODRtaGhkOHFjdGFyOXdxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/F7m2ZIgR06LRiamtXy/giphy.gif" width="50"> A little more about me...<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW11MTE4czk1Mms5OGUxYXU3eHlseWtwMXVtZzlhcXQ5eGx2cXM4eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/N5OTryRsuNnV6cgDav/giphy.gif" width="50"> <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTJrOW5ncXpkYmEzNGhpaHJxb3JqcHJ3dXZlY2w4eWczaTl3bWYwMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/31eHgqekMErJOWHrBY/giphy.gif" width="50">
 ```javascript
 const me = {
     pronouns: "Bro" | "Bruh",
