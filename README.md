@@ -6,7 +6,7 @@ let me = {
     askMeAbout: ["Web Dev", "Tech", "Content Writing", "Memes"],
     technologies: {
         frontEnd: {
-            js: ["Vanilla", "jQuery","ReactJs","NextJs"],
+            js: ["Vanilla","jQuery","ReactJs","NextJs"],
             css: ["CSS3", "Tailwind", "Bootstrap"]
         },
         backEnd: {
